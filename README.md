@@ -75,12 +75,14 @@ pip install pandas numpy scikit-learn xgboost imblearn
 
 ## 📁 Project Structure
 Plaintext
+```
 Diabetes-Prediction-XGBoost/
 │
 ├── diabetes.csv              # Dataset
 ├── diabetes_prediction.py    # Main implementation script
 ├── README.md                 # Project documentation
 └── requirements.txt          # List of dependencies
+```
 ---
 
 ## 🚀 Future Enhancements
