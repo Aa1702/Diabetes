@@ -1,6 +1,6 @@
 # 🩺 Diabetes Prediction Using XGBoost
 
-![Diabetes Prediction Banner](path/to/diabetesimage.png)
+![Diabetes Prediction Banner](diabetesimage.png)
 
 A machine learning project that predicts the likelihood of diabetes in patients using clinical diagnostic data. This project applies **XGBoost**, handles **class imbalance with SMOTE**, and performs **GridSearchCV hyperparameter tuning** to achieve high predictive accuracy.
 
