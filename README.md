@@ -88,7 +88,7 @@ Ensure you have Python 3.7+ installed.
 
 Clone the repo:
 ```
-git clone [https://github.com/yourusername/diabetes-prediction.git](https://github.com/yourusername/diabetes-prediction.git)
+git clone [https://github.com/yourusername/diabetes-prediction.git](https://github.com/Aa1702/diabetes-prediction.git)
 ```
 Install dependencies:
 ```
